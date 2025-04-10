@@ -19,7 +19,7 @@ const Hero = ({}) => {
                 vibrant tastes. Crafted with the finest ingredients and inspired
                 by authentic Middle Eastern and Mediterranean recipes, we offer
                 a dining experience that’s rich in culture and flavor. Whether
-                you're enjoying perfectly grilled kebabs, savoring the warmth of
+                you`re enjoying perfectly grilled kebabs, savoring the warmth of
                 aromatic spices, or indulging in a sweet delicacy, every bite at
                 Manna reflects our passion, authenticity, and culinary artistry.
               </p>

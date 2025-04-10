@@ -19,7 +19,7 @@ const JoinUs = ({}) => {
             Unforgettable Feast
           </h1>
           <p className="max-w-[450px] text-center font-[600] leading-[160%] text-[#ffff]">
-            Whether you're gathering for an intimate evening or a lively
+            Whether you`re gathering for an intimate evening or a lively
             celebration, Manna invites you to savor a dining experience like no
             other. Rooted in the rich traditions of Middle Eastern and
             Mediterranean cuisine, each dish is crafted with handpicked
